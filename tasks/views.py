@@ -7,7 +7,7 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 # Create your views here.
 
-tasks = [] #list
+# tasks = [] #list
 
 # tasks = ["coding","reviewing"]
 
