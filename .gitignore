@@ -1,3 +1,5 @@
 # all .vscode settings
 .vscode/*
 
+# django settings file
+djangoCS50/settings.py
