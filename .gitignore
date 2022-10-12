@@ -3,3 +3,9 @@
 
 # django settings file
 djangoCS50/settings.py
+
+
+# all applications pycache
+newyear/__pycache__/
+hello/__pycache__/ 
+tasks/__pycache__/
